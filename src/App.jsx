@@ -28,10 +28,10 @@ const siteProps = {
   name: "Manshi Prasad",
   title: "Web Developer & Technical Writer",
   email: "manshiprasad60@gmail.com",
-  GitHub: "https://github.com/ManshiPrasad",
-  linkedin: "https://www.linkedin.com/in/manshi-prasad-a99b4b228/",
-  hashnode: "https://hashnode.com/@Manship21",
-  twitter: "https://twitter.com/ManshiPrasad60",
+  GitHub: "ManshiPrasad",
+  linkedin: "manshi-prasad-a99b4b228/",
+  hashnode: "Manship21",
+  twitter: "ManshiPrasad60",
 };
 
 const primaryColor = "#4E567E";
